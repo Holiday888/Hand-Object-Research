@@ -8,8 +8,10 @@ Compared to hand pose estimation and other hand tasks which have already reached
   - [Datasets](#datasets)
   - [Papers](#papers)
     -[Overview](#overview)
-    -[Theses and Survey](#theses-and-survey)
-    -[Journal and Conference](#journal-and-conference)
+    -[Theses](#theses)
+    -[Survey](#survey)
+    -[Journal](#journal)
+    -[Conference](#conference)
   - [Websites](#websites)
     - [Homepage](#homepages)
     - [Talks](#talks)
@@ -20,8 +22,22 @@ Compared to hand pose estimation and other hand tasks which have already reached
  
  ## Papers
  ### Overview
- ### Theses and Survey
- ### Journal and Conference
+ ### Theses
+ + Reconstructing hands and manipulated objects from images and videos
+   [PDF](https://hal.science/tel-03616841/file/thesis_yana_hasson.pdf)
+   Yana Hasson
+ + Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects
+   [PDF](https://ps.is.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)
+   Dimitrios Tzionas
+ + GraspIt!: A Versatile Simulator for Robotic Grasping
+   [PDF]()
+ + Hierarchical Modeling of Human-Object Interactions: from Concurrent Action Parsing to Physics-Based Grasping
+   [PDF](https://scholar.google.com/scholar?q=Hierarchical+Modeling+of+Human-Object+Interactions:+from+Concurrent+Action+Parsing+to+Physics-Based+Grasping&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)
+   Tengyu Liu
+ ### Survey
+ 
+ ### Journal
+ ### Conference
  
  ## Websites
  ### Homepage
@@ -34,5 +50,5 @@ Compared to hand pose estimation and other hand tasks which have already reached
  + [Zimeng Zhao](https://tneitap.gitee.io/)
 
 ### Talks
-+ Virtual hands in VR: motion capture, synthesis, and perception[link](https://dl.acm.org/doi/abs/10.1145/3388769.3407494)
-+ 基于图像的手物交互重建与虚拟人手生成[link](https://apposcmf8kb5033.pc.xiaoe-tech.com/detail/l_62b959b9e4b0eca59c0ec26c/4?fromH5=true)
++ Virtual hands in VR: motion capture, synthesis, and perception [link](https://dl.acm.org/doi/abs/10.1145/3388769.3407494)
++ 基于图像的手物交互重建与虚拟人手生成 [link](https://apposcmf8kb5033.pc.xiaoe-tech.com/detail/l_62b959b9e4b0eca59c0ec26c/4?fromH5=true)
