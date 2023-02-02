@@ -1,56 +1,38 @@
 # Hand-Object-Research
 
-Compared to hand pose estimation and other hand tasks which have already reached a high level, research about hand-object interaction still needs more in-depth exploration. This repo involves related resources of hand-object interaction. Please check [Awesome Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) and [Very Recent Progress in 3D Hand Tasks](https://github.com/SeanChenxy/Hand3DResearch#hand-object-interaction) for more information on additional hand-related tasks.
+Compared to hand pose estimation and other hand tasks which have already reached a high level, research about hand-object interaction still needs more in-depth exploration. This repo focuses on related resources of hand-object interaction. Please check [Awesome Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) and [Very Recent Progress in 3D Hand Tasks](https://github.com/SeanChenxy/Hand3DResearch#hand-object-interaction) for more information on additional hand-related tasks.
 
 ## Contents
 
   - [Contents](#contents)
-  - [Overview](#overview)
   - [Datasets](#datasets)
+  - [Papers](#papers)
+    -[Overview](#overview)
+    -[Theses and Survey](#theses-and-survey)
+    -[Journal and Conference](#journal-and-conference)
   - [Websites](#websites)
     - [Homepage](#homepages)
-    - [Other resource](#other resource)
-  - [Papers](#papers)
-    - [Hand Shape/Pose](#hand-shapepose)
-      - [Forward Kinematics](#forward-kinematics)
-      - [Inverse Kinematics](#inverse-kinematics)
-      - [Graph](#graph)
-      - [Transformer](#transformer)
-      - [2.5D](#25d)
-      - [UV](#uv)
-      - [Shape](#shape)
-      - [Neural Rendering on Generation](#neural-rendering-on-generation)
-      - [Neural Rendering on Avatar](#neural-rendering-on-avatar)
-      - [Dynamics](#dynamics)
-      - [Weak Supervision](#weak-supervision)
-      - [Temporal](#temporal)
-      - [Cross-Modal](#cross-modal)
-    - [Hand-Object Interaction](#hand-object-interaction)
-      - [Kinematics](#kinematics)
-      - [Graph](#graph-1)
-      - [Shape](#shape-1)
-      - [Neural Rendering](#neural-rendering-1)
-      - [Dynamics](#dynamics-1)
-      - [Weak Supervision](#weak-supervision-1)
-      - [Temporal](#temporal-1)
-      - [Contact](#contact)
-    - [Hand-Hand Interaction](#hand-hand-interaction)
-      - [Kinematics](#kinematics-1)
-      - [2.5D](#25d-1)
-      - [Transformer](#transformer-1)
-      - [GAN](#gan)
-      - [Graph](#graph-2)
-    - [Full Body Reconstruction](#full-body-reconstruction)
-      - [Forward Kinematics](#forward-kinematics-1)
-      - [Inverse Kinematics](#inverse-kinematics-1)
-      - [Shape](#shape-2)
-      - [Neural Rendering](#neural-rendering-2)
-      - [Grasp](#grasp)
-      - [In-Sence](#in-sence)
-  - [Tools](#tools)
-    - [Model](#model)
-    - [MoCap](#mocap)
-    - [Data](#data)
-  <!-- - [Benchmarks](#benchmarks)
-    - [FreiHAND](#freihand)
-    - [RHD](#rhd) -->
+    - [Talks](#talks)
+    - [Other resource](#other-resource)
+    
+ ## Datasets
+ 
+ 
+ ## Papers
+ ### Overview
+ ### Theses and Survey
+ ### Journal and Conference
+ 
+ ## Websites
+ ### Homepage
+ + [Dimitris Tzionas](https://ps.is.mpg.de/person/dtzionas)
+ + [Lixin YANG](https://lixiny.github.io/)
+ + [Markus Oberweger](https://moberweger.github.io/index)
+ + [Yana Hasson](https://hassony2.github.io/)
+ + [Yuting Ye](http://yutingye.info/Research.html)
+ + [Yufei Ye](https://judyye.github.io/)
+ + [Zimeng Zhao](https://tneitap.gitee.io/)
+
+### Talks
++ Virtual hands in VR: motion capture, synthesis, and perception[link](https://dl.acm.org/doi/abs/10.1145/3388769.3407494)
++ 基于图像的手物交互重建与虚拟人手生成[link](https://apposcmf8kb5033.pc.xiaoe-tech.com/detail/l_62b959b9e4b0eca59c0ec26c/4?fromH5=true)
