@@ -25,27 +25,41 @@ Compared to hand pose estimation and other hand tasks which have already reached
  ### Theses
  + Reconstructing hands and manipulated objects from images and videos. 2021
    [[PDF](https://hal.science/tel-03616841/file/thesis_yana_hasson.pdf)]\
-   Yana Hasson
+   *Yana Hasson*
    
  + Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. 2016
    [[PDF](https://ps.is.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)]\
-   Dimitrios Tzionas
+   *Dimitrios Tzionas*
    
  + GraspIt!: A Versatile Simulator for Robotic Grasping. 2001
    [[PDF](http://www1.cs.columbia.edu/~amiller/thesis.pdf)]\
-   Andrew T. Miller
+   *Andrew T. Miller*
    
  + Hierarchical Modeling of Human-Object Interactions: from Concurrent Action Parsing to Physics-Based Grasping. 2021
    [[PDF](https://scholar.google.com/scholar?q=Hierarchical+Modeling+of+Human-Object+Interactions:+from+Concurrent+Action+Parsing+to+Physics-Based+Grasping&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]\
-   Tengyu Liu
+   *Tengyu Liu*
    
  ### Survey
  
  ### Journal, Conference, Arxiv
+ 
+ 
+ 
+ 
  ### Uncategorized
  + Fine-grained Affordance Annotation for Egocentric Hand-Object Interaction Videos. WACV23.
    [[PDF](https://arxiv.org/pdf/2302.03292v1.pdf)]\
    *Zecheng Yu, Yifei Huang, Ryosuke Furuta, Takuma Yagi, Yusuke Goutsu, Yoichi Sato*
+   
+ + Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations. arXiv22.
+   [[PDF](https://arxiv.org/pdf/2207.05053.pdf)]
+   [[Project](https://jianglongye.com/cgf/)]\
+   *Jianglong Ye, Jiashun Wang, Binghao Huang, Yuzhe Qin, Xiaolong Wang*
+   
+ + Reconstructing Action-Conditioned Human-Object Interactions Using Commonsense Knowledge Priors. 3DV22.
+   [[PDF](https://arxiv.org/pdf/2209.02485.pdf)]
+   [[Project](https://eth-ait.github.io/rhoi/)]\
+   *Xi Wang, Gen Li, Yen-Ling Kuo, Muhammed Kocabas, Emre Aksan, Otmar Hilliges*
  
  ## Websites
  ### Homepage
