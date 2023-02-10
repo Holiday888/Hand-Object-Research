@@ -24,15 +24,16 @@ Compared to hand pose estimation and other hand tasks which have already reached
  ## Papers
  ### Overview
  ### Theses
- + Reconstructing hands and manipulated objects from images and videos
+ + Reconstructing hands and manipulated objects from images and videos. 2021
    [[PDF](https://hal.science/tel-03616841/file/thesis_yana_hasson.pdf)]
    Yana Hasson
- + Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects
+ + Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. 2016
    [[PDF](https://ps.is.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)]
    Dimitrios Tzionas
- + GraspIt!: A Versatile Simulator for Robotic Grasping
-   [PDF]()
- + Hierarchical Modeling of Human-Object Interactions: from Concurrent Action Parsing to Physics-Based Grasping
+ + GraspIt!: A Versatile Simulator for Robotic Grasping. 2001
+   [[PDF](http://www1.cs.columbia.edu/~amiller/thesis.pdf)]
+   Andrew T. Miller
+ + Hierarchical Modeling of Human-Object Interactions: from Concurrent Action Parsing to Physics-Based Grasping. 
    [[PDF](https://scholar.google.com/scholar?q=Hierarchical+Modeling+of+Human-Object+Interactions:+from+Concurrent+Action+Parsing+to+Physics-Based+Grasping&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)]
    Tengyu Liu
  ### Survey
