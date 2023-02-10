@@ -43,8 +43,9 @@ Compared to hand pose estimation and other hand tasks which have already reached
  
  ### Journal, Conference, Arxiv
  ### Uncategorized
- + Fine-grained Affordance Annotation for Egocentric Hand-Object Interaction Videos 
-   [[PDF](https://arxiv.org/pdf/2302.03292v1.pdf)]
+ + Fine-grained Affordance Annotation for Egocentric Hand-Object Interaction Videos. WACV23.
+   [[PDF](https://arxiv.org/pdf/2302.03292v1.pdf)]\
+   *Zecheng Yu, Yifei Huang, Ryosuke Furuta, Takuma Yagi, Yusuke Goutsu, Yoichi Sato*
  
  ## Websites
  ### Homepage
