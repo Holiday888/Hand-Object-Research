@@ -11,6 +11,7 @@ Compared to hand pose estimation and other hand tasks which have already reached
     - [Theses](#theses)
     - [Survey](#survey)
     - [Journal, Conference, arXiv](#journal-conference-arxiv)
+    - [Uncategorized](#uncategorized)
   - [Websites](#websites)
     - [Homepage](#homepages)
     - [Talks](#talks)
@@ -41,7 +42,7 @@ Compared to hand pose estimation and other hand tasks which have already reached
  ### Survey
  
  ### Journal, Conference, Arxiv
-
+ ### Uncategorized
  + Fine-grained Affordance Annotation for Egocentric Hand-Object Interaction Videos 
    [[PDF](https://arxiv.org/pdf/2302.03292v1.pdf)]
  
