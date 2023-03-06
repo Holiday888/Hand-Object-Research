@@ -62,8 +62,10 @@ Compared to hand pose estimation and other hand tasks which have already reached
    *Xi Wang, Gen Li, Yen-Ling Kuo, Muhammed Kocabas, Emre Aksan, Otmar Hilliges*
  
  ## Websites
- ### Homepage
+ ### Homepage（Sort in alphabetical order）
  + [Dimitris Tzionas](https://ps.is.mpg.de/person/dtzionas)
+
+ + [He Wang](https://hughw19.github.io/)
  
  + [Lixin YANG](https://lixiny.github.io/)
  
