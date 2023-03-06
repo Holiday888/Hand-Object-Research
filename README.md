@@ -66,6 +66,8 @@ Compared to hand pose estimation and other hand tasks which have already reached
  + [Dimitris Tzionas](https://ps.is.mpg.de/person/dtzionas)
 
  + [He Wang](https://hughw19.github.io/)
+
+ + [Li Yi](https://ericyi.github.io/)
  
  + [Lixin YANG](https://lixiny.github.io/)
  
@@ -73,9 +75,9 @@ Compared to hand pose estimation and other hand tasks which have already reached
  
  + [Yana Hasson](https://hassony2.github.io/)
  
- + [Yuting Ye](http://yutingye.info/Research.html)
- 
  + [Yufei Ye](https://judyye.github.io/)
+ 
+ + [Yuting Ye](http://yutingye.info/Research.html)
  
  + [Zimeng Zhao](https://tneitap.gitee.io/)
 
