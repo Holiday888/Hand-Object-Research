@@ -23,6 +23,14 @@ Compared to hand pose estimation and other hand tasks which have already reached
  ## Papers
  
  ### Overview
+ In the repo [Very Recent Progress in 3D Hand Tasks](https://github.com/SeanChenxy/Hand3DResearch#hand-object-interaction), papers about hand-object interaction are categorized by their key feature. Here we calssify papers by their tasks and put their features behind the title.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  ### Theses
  + Reconstructing hands and manipulated objects from images and videos. 2021
