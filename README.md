@@ -21,7 +21,9 @@ Compared to hand pose estimation and other hand tasks which have already reached
  
  
  ## Papers
+ 
  ### Overview
+ 
  ### Theses
  + Reconstructing hands and manipulated objects from images and videos. 2021
    [[PDF](https://hal.science/tel-03616841/file/thesis_yana_hasson.pdf)]\
@@ -47,6 +49,7 @@ Compared to hand pose estimation and other hand tasks which have already reached
  
  
  ### Uncategorized
+ 
  + Fine-grained Affordance Annotation for Egocentric Hand-Object Interaction Videos. WACV23.
    [[PDF](https://arxiv.org/pdf/2302.03292v1.pdf)]\
    *Zecheng Yu, Yifei Huang, Ryosuke Furuta, Takuma Yagi, Yusuke Goutsu, Yoichi Sato*
@@ -60,8 +63,11 @@ Compared to hand pose estimation and other hand tasks which have already reached
    [[PDF](https://arxiv.org/pdf/2209.02485.pdf)]
    [[Project](https://eth-ait.github.io/rhoi/)]\
    *Xi Wang, Gen Li, Yen-Ling Kuo, Muhammed Kocabas, Emre Aksan, Otmar Hilliges*
+   
+   
  
  ## Websites
+ 
  ### LABS
  + [Advanced Interactive Technologies Lab](https://ait.ethz.ch/index.php)
 
