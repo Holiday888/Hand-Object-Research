@@ -82,5 +82,5 @@ Compared to hand pose estimation and other hand tasks which have already reached
  + [Zimeng Zhao](https://tneitap.gitee.io/)
 
 ### Talks
-+ Virtual hands in VR: motion capture, synthesis, and perception [link](https://dl.acm.org/doi/abs/10.1145/3388769.3407494)
-+ 基于图像的手物交互重建与虚拟人手生成 [link](https://apposcmf8kb5033.pc.xiaoe-tech.com/detail/l_62b959b9e4b0eca59c0ec26c/4?fromH5=true)
++ Virtual hands in VR: motion capture, synthesis, and perception [[link](https://dl.acm.org/doi/abs/10.1145/3388769.3407494)]
++ 基于图像的手物交互重建与虚拟人手生成 [[link](https://apposcmf8kb5033.pc.xiaoe-tech.com/detail/l_62b959b9e4b0eca59c0ec26c/4?fromH5=true)]
