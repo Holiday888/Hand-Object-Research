@@ -1,4 +1,4 @@
-# Hand-Object-Research
+# Hand-Object Research
 
 Compared to hand pose estimation and other hand tasks which have already reached a high level, research about hand-object interaction still needs more in-depth exploration. This repo focuses on related resources of hand-object interaction. Please check [Awesome Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) and [Very Recent Progress in 3D Hand Tasks](https://github.com/SeanChenxy/Hand3DResearch#hand-object-interaction) for more information on additional hand-related tasks.
 
@@ -52,6 +52,10 @@ Compared to hand pose estimation and other hand tasks which have already reached
  ### Survey
  
  ### Journal, Conference, Arxiv
+ + Affordance Diffusion: Synthesizing Hand-Object Interactions. CVPR23
+   [[PDF](https://arxiv.org/pdf/2303.12538.pdf)]
+   [[Project](https://judyye.github.io/affordiffusion-www/)]\
+   *Yufei Ye, Xueting Li, Abhinav Gupta, Shalini De Mello, Stan Birchfield, Jiaming Song, Shubham Tulsiani, Sifei Liu*
  
  
  
