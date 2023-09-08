@@ -2,7 +2,7 @@
 
 Compared to hand pose estimation and other hand tasks which have already reached a high level, research about hand-object interaction still needs more in-depth exploration. This repo focuses on related resources of hand-object interaction. Please check [Awesome Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) and [Very Recent Progress in 3D Hand Tasks](https://github.com/SeanChenxy/Hand3DResearch#hand-object-interaction) for more information on additional hand-related tasks.
 
-🚧 **NOTE**: This repo is still under construction. Any suggestions or feedback are welcome in the [issues]().
+🚧 **NOTE**: This repo is still under construction. Any suggestions or feedback are welcome in the [issues](https://github.com/Holiday888/Hand-Object-Research/issues).
 
 ## Contents
 
