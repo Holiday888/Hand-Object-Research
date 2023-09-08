@@ -74,6 +74,11 @@ Compared to hand pose estimation and other hand tasks which have already reached
    [[PDF](https://arxiv.org/pdf/2303.12538.pdf)]
    [[Project](https://judyye.github.io/affordiffusion-www/)]\
    *Yufei Ye, Xueting Li, Abhinav Gupta, Shalini De Mello, Stan Birchfield, Jiaming Song, Shubham Tulsiani, Sifei Liu*
+
++ gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction.
+  [[PDF](https://arxiv.org/pdf/2304.11970.pdf)]
+  [[Project](https://zerchen.github.io/projects/gsdf.html)]\
+  *Zerui Chen, Shizhe Chen, Cordelia Schmid, Ivan Laptev*
  
  
  
