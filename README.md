@@ -52,10 +52,22 @@ Compared to hand pose estimation and other hand tasks which have already reached
  ### Survey
  
  ### Journal, Conference, Arxiv
+**2023 ICCV**
++ Nonrigid Object Contact Estimation With Regional Unwrapping Transformer. ICCV23
+  [[PDF](https://arxiv.org/pdf/2308.14074.pdf)]\
+  *Wei Xie, Zimeng Zhao, Shiying Li, Binghui Zuo, Yangang Wang*
+ 
++ Dynamic Hyperbolic Attention Network for Fine Hand-object Reconstruction. ICCV23
+  [[PDF]](todo)\
+  *Zhiying Leng, Shun-Cheng Wu, Mahdi Saleh, Antonio Montanaro, Hao Yu, Yin Wang, Nassir Navab, Xiaohui Liang, Federico Tombari*
+
++ Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips. ICCV23(Oral)
+  [[PDF]](todo)\
+  *Yufei Ye, Poorvi Hebbar, Abhinav Gupta, Shubham Tulsiani*
 
 
- ** 2023 CVPR **
- + Affordance Diffusion: Synthesizing Hand-Object Interactions. CVPR23
+ **2023 CVPR**
+ + Affordance Diffusion: Synthesizing Hand-Object Interactions. *Diffusion*
    [[PDF](https://arxiv.org/pdf/2303.12538.pdf)]
    [[Project](https://judyye.github.io/affordiffusion-www/)]\
    *Yufei Ye, Xueting Li, Abhinav Gupta, Shalini De Mello, Stan Birchfield, Jiaming Song, Shubham Tulsiani, Sifei Liu*
