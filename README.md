@@ -54,7 +54,7 @@ Compared to hand pose estimation and other hand tasks which have already reached
  ### Journal, Conference, Arxiv
 
 
- #### 2023 CVPR
+ ** 2023 CVPR **
  + Affordance Diffusion: Synthesizing Hand-Object Interactions. CVPR23
    [[PDF](https://arxiv.org/pdf/2303.12538.pdf)]
    [[Project](https://judyye.github.io/affordiffusion-www/)]\
