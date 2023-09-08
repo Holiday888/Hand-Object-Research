@@ -58,11 +58,11 @@ Compared to hand pose estimation and other hand tasks which have already reached
   *Wei Xie, Zimeng Zhao, Shiying Li, Binghui Zuo, Yangang Wang*
  
 + Dynamic Hyperbolic Attention Network for Fine Hand-object Reconstruction. ICCV23
-  [[PDF]] (todo)\
+  [PDF] (todo)\
   *Zhiying Leng, Shun-Cheng Wu, Mahdi Saleh, Antonio Montanaro, Hao Yu, Yin Wang, Nassir Navab, Xiaohui Liang, Federico Tombari*
 
 + Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips. ICCV23(Oral)
-  [[PDF]] (todo)
+  [PDF] (todo)
   [[Project](https://judyye.github.io/diffhoi-www/)]\
   *Yufei Ye, Poorvi Hebbar, Abhinav Gupta, Shubham Tulsiani*
 
