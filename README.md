@@ -127,7 +127,7 @@ Compared to hand pose estimation and other hand tasks which have already reached
  
  + [Yuting Ye](http://yutingye.info/Research.html)
 
- + [Zicong Alex Fan](https://ait.ethz.ch/people/zfan/)
+ + [Zicong Alex Fan](https://zc-alexfan.github.io/)
  
  + [Zimeng Zhao](https://tneitap.gitee.io/)
 
