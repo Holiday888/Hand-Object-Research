@@ -64,7 +64,7 @@ Compared to hand pose estimation and other hand tasks which have already reached
   *Zhiying Leng, Shun-Cheng Wu, Mahdi Saleh, Antonio Montanaro, Hao Yu, Yin Wang, Nassir Navab, Xiaohui Liang, Federico Tombari*
 
 + Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips. ICCV23(Oral)
-  [PDF] (todo)
+  [[PDF](https://arxiv.org/pdf/2309.05663.pdf)]
   [[Project](https://judyye.github.io/diffhoi-www/)]\
   *Yufei Ye, Poorvi Hebbar, Abhinav Gupta, Shubham Tulsiani*
 
