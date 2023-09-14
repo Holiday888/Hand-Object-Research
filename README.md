@@ -54,6 +54,14 @@ Compared to hand pose estimation and other hand tasks which have already reached
  ### Survey
  
  ### Journal, Conference, Arxiv
+**Arxiv**
++ ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation. 
+  [[PDF](https://arxiv.org/pdf/2309.03891.pdf)]
+  [[Project](https://eth-ait.github.io/artigrasp/)]\
+  *Hui Zhang, Sammy Christen, Zicong Fan, Luocheng Zheng, Jemin Hwangbo, Jie Song, Otmar Hilliges*
+  
+
+ 
 **2023 ICCV**
 + Nonrigid Object Contact Estimation With Regional Unwrapping Transformer. ICCV23
   [[PDF](https://arxiv.org/pdf/2308.14074.pdf)]\
@@ -67,6 +75,11 @@ Compared to hand pose estimation and other hand tasks which have already reached
   [[PDF](https://arxiv.org/pdf/2309.05663.pdf)]
   [[Project](https://judyye.github.io/diffhoi-www/)]\
   *Yufei Ye, Poorvi Hebbar, Abhinav Gupta, Shubham Tulsiani*
+
++ InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion. ICCV 2023
+  [[PDF](https://arxiv.org/pdf/2308.16905.pdf)]
+  [[Project](https://sirui-xu.github.io/InterDiff/)]\
+  *Sirui Xu, Zhengyuan Li, Yu-Xiong Wang, Liang-Yan Gui*
 
 
  **2023 CVPR**
