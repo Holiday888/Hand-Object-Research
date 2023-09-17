@@ -55,7 +55,12 @@ Compared to hand pose estimation and other hand tasks which have already reached
  
  ### Journal, Conference, Arxiv
 **Arxiv**
-+ ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation. 
++ HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image. 2023.9.14\
+  [[PDF](https://arxiv.org/pdf/2309.07891v1.pdf)]
+  *Hongsuk Choi, Nikhil Chavan-Dafle, Jiacheng Yuan, Volkan Isler, and Hyunsoo Park*
+
+
++ ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation. 2023.9.7\
   [[PDF](https://arxiv.org/pdf/2309.03891.pdf)]
   [[Project](https://eth-ait.github.io/artigrasp/)]\
   *Hui Zhang, Sammy Christen, Zicong Fan, Luocheng Zheng, Jemin Hwangbo, Jie Song, Otmar Hilliges*
