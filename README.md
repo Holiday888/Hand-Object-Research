@@ -55,8 +55,8 @@ Compared to hand pose estimation and other hand tasks which have already reached
  
  ### Journal, Conference, Arxiv
 **Arxiv**
-+ HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image. 2023.9.14 \
-  [[PDF](https://arxiv.org/pdf/2309.07891v1.pdf)]
++ HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image. 2023.9.14 
+  [[PDF](https://arxiv.org/pdf/2309.07891v1.pdf)] \
   *Hongsuk Choi, Nikhil Chavan-Dafle, Jiacheng Yuan, Volkan Isler, and Hyunsoo Park*
 
 
